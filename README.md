@@ -1,5 +1,6 @@
 # atividade-de-fork
-Equipe batotinha
+Equipe batotinha:
 Rodrigo Campos
 Blenda Kettlen
 Gean Carlos
+Anderlan Pinheiro
